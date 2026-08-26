@@ -4,7 +4,7 @@ public class GFG{
     
     public static void main(String[] args){
         
-        // Step 1: Create Scanner object
+        
         Scanner sc = new Scanner(System.in);
 
         // Step 2: Prompt user for input
